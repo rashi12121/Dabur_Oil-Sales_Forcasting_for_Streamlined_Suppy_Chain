@@ -86,7 +86,7 @@ The goal of this project is to create a **dynamic demand forecasting model** tha
 
 ## 📸 Sales/Inventory Dashboard 
 
-![Dashboard Screenshot](https://github.com/rashi12121/Dabur_Oil-Sales_Forcasting_for_Streamlined_Suppy_Chain/blob/main/Dabur_Oil%20Sales.png)
+![Dashboard Screenshot](https://github.com/rashi12121/Dabur_Oil-Sales_Forcasting_for_Streamlined_Suppy_Chain/blob/main/_Dabur%20Dashboard.png)
 
 
 
