@@ -3,6 +3,7 @@
 ## 🏢 About the Company
 
 **Dabur Oils** operates four major oil mills located in **Anand, Ahmedabad, Gandhinagar, and Vadodara**. The company produces **six premium oil varieties**, all packaged in convenient 1-liter bottles to ensure quality and freshness. With detailed sales data provided for the months of **June and July**, this project aims to forecast demand for upcoming months and help streamline the supply chain operations.
+
 ![Company Screenshot](https://github.com/rashi12121/Dabur_Oil-Sales_Forcasting_for_Streamlined_Suppy_Chain/blob/main/Dabur%20Logo.png)
 ![Product  Screenshot](https://github.com/rashi12121/Dabur_Oil-Sales_Forcasting_for_Streamlined_Suppy_Chain/blob/main/Dabur%20Products.png)
 ---
@@ -83,7 +84,7 @@ The goal of this project is to create a **dynamic demand forecasting model** tha
 
 ---
 
-## 📸 Dashboard Snapshot
+## 📸 Sales/Inventory Dashboard 
 
 ![Dashboard Screenshot](https://github.com/rashi12121/Dabur_Oil-Sales_Forcasting_for_Streamlined_Suppy_Chain/blob/main/Dabur_Oil%20Sales.png)
 
